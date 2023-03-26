@@ -7,15 +7,15 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Learn Nextjs </title>
+        <title>Learn TuongTM </title>
         <meta name="description" content="Learn next with typescript" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-          <b>I new learn Nextjs .Hello nextjs</b>
+          Welcome to <a href="https://TuongTM.org">Next.js!</a>
+          <b>I new learn TuongTM .Hello TuongTM</b>
         </h1>
 
         <p className={styles.description}>
@@ -24,12 +24,12 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://TuongTM.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://TuongTM.org/learn" className={styles.card}>
             <h2>Learn &rarr;</h2>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
